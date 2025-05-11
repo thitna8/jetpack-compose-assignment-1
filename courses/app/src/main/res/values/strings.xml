@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="courses">Courses</string>
+    <string name="credit_hours">%d credits</string>
+    <string name="prerequisites">Prerequisites</string>
+    <string name="expand">Expand</string>
+    <string name="collapse">Collapse</string>
+</resources>
